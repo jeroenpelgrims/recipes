@@ -1,0 +1,85 @@
+{
+  "recipe_name": "Pancakes (crêpes)",
+  "yields": [
+    {
+      "amount": 4,
+      "unit": "people"
+    }
+  ],
+  "ingredients": [
+    {
+      "ingredient": "Flour",
+      "amounts": [
+        {
+          "amount": 200,
+          "unit": "gr"
+        }
+      ]
+    },
+    {
+      "ingredient": "Sugar",
+      "amounts": [
+        {
+          "amount": 30,
+          "unit": "gr"
+        }
+      ]
+    },
+    {
+      "ingredient": "Baking powder",
+      "amounts": [
+        {
+          "amount": 2,
+          "unit": "teaspoons"
+        }
+      ]
+    },
+    {
+      "ingredient": "Vanilla sugar",
+      "amounts": [
+        {
+          "amount": 1,
+          "unit": "bag"
+        }
+      ]
+    },
+    {
+      "ingredient": "Eggs",
+      "amounts": [
+        {
+          "amount": 4,
+          "unit": "pieces"
+        }
+      ]
+    },
+    {
+      "ingredient": "Milk",
+      "amounts": [
+        {
+          "amount": 500,
+          "unit": "ml"
+        }
+      ]
+    },
+    {
+      "ingredient": "Butter"
+    }
+  ],
+  "steps": [
+    {
+      "step": "Mix the dry ingredients together"
+    },
+    {
+      "step": "Add the wet ingredients"
+    },
+    {
+      "step": "Mix thoroughly"
+    },
+    {
+      "step": "Add some butter to the pan, let it melt."
+    },
+    {
+      "step": "Fill the pan with a thin layer of dough. Flip when the bottom is done."
+    }
+  ]
+}

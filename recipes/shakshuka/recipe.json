@@ -1,0 +1,156 @@
+{
+  "recipe_name": "Shakshuka",
+  "source_url": "https://downshiftology.com/recipes/shakshuka/",
+  "yields": [
+    {
+      "amount": 4,
+      "unit": "people"
+    }
+  ],
+  "ingredients": [
+    {
+      "ingredient": "Olive oil",
+      "amounts": [
+        {
+          "amount": 2,
+          "unit": "tablespoon"
+        }
+      ]
+    },
+    {
+      "ingredient": "Onion",
+      "amounts": [
+        {
+          "amount": 1,
+          "unit": "piece"
+        }
+      ],
+      "processing": [
+        "diced"
+      ]
+    },
+    {
+      "ingredient": "Red bell pepper",
+      "amounts": [
+        {
+          "amount": 1,
+          "unit": "piece"
+        }
+      ],
+      "processing": [
+        "seeded",
+        "diced"
+      ]
+    },
+    {
+      "ingredient": "Garlic",
+      "amounts": [
+        {
+          "amount": 4,
+          "unit": "cloves"
+        }
+      ],
+      "processing": [
+        "finely chopped"
+      ]
+    },
+    {
+      "ingredient": "Ground cumin",
+      "amounts": [
+        {
+          "amount": 1,
+          "unit": "teaspoon"
+        }
+      ]
+    },
+    {
+      "ingredient": "Paprika powder",
+      "amounts": [
+        {
+          "amount": 2,
+          "unit": "teaspoon"
+        }
+      ]
+    },
+    {
+      "ingredient": "Chili powder",
+      "amounts": [
+        {
+          "amount": 0.25,
+          "unit": "teaspoon"
+        }
+      ]
+    },
+    {
+      "ingredient": "Whole peeled tomatos",
+      "amounts": [
+        {
+          "amount": 800,
+          "unit": "gr"
+        }
+      ]
+    },
+    {
+      "ingredient": "Eggs",
+      "amounts": [
+        {
+          "amount": 6,
+          "unit": "pieces"
+        }
+      ]
+    },
+    {
+      "ingredient": "Salt and pepper",
+      "processing": [
+        "to taste"
+      ]
+    },
+    {
+      "ingredient": "Parsley",
+      "amounts": [
+        {
+          "amount": 1,
+          "unit": "bunch"
+        }
+      ],
+      "processing": [
+        "chopped"
+      ]
+    },
+    {
+      "ingredient": "Cilantro",
+      "amounts": [
+        {
+          "amount": 1,
+          "unit": "bunch"
+        }
+      ],
+      "processing": [
+        "chopped"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "step": "Heat the olive oil in a large pan on medium heat. Add the chopped onion and bell pepper. Cook for 5 minutes or until the onion becomes translucent."
+    },
+    {
+      "step": "Add the garlic, cumin, paprika powder and chili powder."
+    },
+    {
+      "step": "Add the can of tomatoes and break them apart. Season with salt and pepper."
+    },
+    {
+      "step": "Bring the sauce to a simmer."
+    },
+    {
+      "step": "Make wells into the sauce and crack the eggs into them."
+    },
+    {
+      "step": "Cover the pan and cook until the eggs are done (5-8 minutes)."
+    },
+    {
+      "step": "Garnish with parsley and cilantro."
+    }
+  ]
+}

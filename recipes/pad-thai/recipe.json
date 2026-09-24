@@ -1,0 +1,225 @@
+{
+  "recipe_name": "Pad Thai",
+  "source_url": "https://tastesbetterfromscratch.com/pad-thai/",
+  "yields": [
+    {
+      "amount": 4,
+      "unit": "people"
+    }
+  ],
+  "ingredients": [
+    {
+      "ingredient": "Flat rice noodles",
+      "amounts": [
+        {
+          "amount": 450,
+          "unit": "gr"
+        }
+      ]
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "amounts": [
+        {
+          "amount": 82,
+          "unit": "gr"
+        }
+      ]
+    },
+    {
+      "ingredient": "Garlic",
+      "amounts": [
+        {
+          "amount": 6,
+          "unit": "cloves"
+        }
+      ],
+      "processing": [
+        "minced"
+      ]
+    },
+    {
+      "ingredient": "Shrimp",
+      "amounts": [
+        {
+          "amount": 450,
+          "unit": "gr"
+        }
+      ],
+      "substitutions": [
+        {
+          "Chicken": null
+        },
+        {
+          "Tofu": null
+        }
+      ]
+    },
+    {
+      "ingredient": "Eggs",
+      "amounts": [
+        {
+          "amount": 4,
+          "unit": "pieces"
+        }
+      ]
+    },
+    {
+      "ingredient": "Bean sprouts",
+      "amounts": [
+        {
+          "amount": 200,
+          "unit": "gr"
+        }
+      ]
+    },
+    {
+      "ingredient": "Red bell pepper",
+      "amounts": [
+        {
+          "amount": 2,
+          "unit": "pieces"
+        }
+      ],
+      "processing": [
+        "Thinly sliced"
+      ]
+    },
+    {
+      "ingredient": "Green onions",
+      "amounts": [
+        {
+          "amount": 6,
+          "unit": "pieces"
+        }
+      ],
+      "processing": [
+        "Chopped"
+      ]
+    },
+    {
+      "ingredient": "Roasted peanuts",
+      "amounts": [
+        {
+          "amount": 150,
+          "unit": "gr"
+        }
+      ]
+    },
+    {
+      "ingredient": "Lime",
+      "amounts": [
+        {
+          "amount": 4,
+          "unit": "pieces"
+        }
+      ]
+    },
+    {
+      "ingredient": "Cilantro",
+      "amounts": [
+        {
+          "amount": 16,
+          "unit": "gr"
+        }
+      ]
+    },
+    {
+      "ingredient": "Fish sauce",
+      "amounts": [
+        {
+          "amount": 90,
+          "unit": "gr"
+        }
+      ]
+    },
+    {
+      "ingredient": "Soy sauce",
+      "amounts": [
+        {
+          "amount": 34,
+          "unit": "gr"
+        }
+      ]
+    },
+    {
+      "ingredient": "Brown sugar",
+      "amounts": [
+        {
+          "amount": 60,
+          "unit": "gr"
+        }
+      ]
+    },
+    {
+      "ingredient": "Tamarind paste",
+      "amounts": [
+        {
+          "amount": 58,
+          "unit": "gr"
+        }
+      ],
+      "substitutions": [
+        {
+          "Rice vinegar": null
+        }
+      ]
+    },
+    {
+      "ingredient": "Sriracha hot sauce",
+      "amounts": [
+        {
+          "amount": 38,
+          "unit": "gr"
+        }
+      ],
+      "substitutions": [
+        {
+          "Piri-piri": {
+            "amounts": [
+              {
+                "amount": 2,
+                "unit": "gr"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "ingredient": "Peanut butter",
+      "amounts": [
+        {
+          "amount": 60,
+          "unit": "gr"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "step": "Make the sauce by combining the following ingredients in a bowl:\nFish sauce, Soy sauce, Brown sugar, Tamarind paste, Sriracha sauce, peanut butter\n"
+    },
+    {
+      "step": "Cook the noodles. They should still be a bit chewy. It should take between 1 and 3 minutes.\nImmediately after cooking them, rinse with cold water. This prevents them from continuing to soften.\n"
+    },
+    {
+      "step": "Heat about 3/4ths of the oil in a pan."
+    },
+    {
+      "step": "Add shrimp, garlic, bell pepper. Cook it for a few minutes."
+    },
+    {
+      "step": "Make some space in the pan. Add the rest of the oil. Add the eggs and scramble them."
+    },
+    {
+      "step": "Add the noodles and pour the sauce over them to loosen them up again. Add the bean sprouts."
+    },
+    {
+      "step": "Cook a bit more until everything is heated up and the bean sprouts have softened"
+    },
+    {
+      "step": "Garnish with some green onions, chopped peanuts, cilantro and drizzle some lime juice over it."
+    }
+  ]
+}

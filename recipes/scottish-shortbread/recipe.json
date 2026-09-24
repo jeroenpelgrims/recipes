@@ -1,0 +1,65 @@
+{
+  "recipe_name": "Scottish shortbread",
+  "source_url": "https://www.daringgourmet.com/scottish-shortbread/",
+  "yields": [
+    {
+      "amount": 18,
+      "unit": "pieces"
+    }
+  ],
+  "ingredients": [
+    {
+      "ingredient": "Flour",
+      "amounts": [
+        {
+          "amount": 312,
+          "unit": "gr"
+        }
+      ]
+    },
+    {
+      "ingredient": "Butter (unsalted)",
+      "amounts": [
+        {
+          "amount": 226,
+          "unit": "gr"
+        }
+      ]
+    },
+    {
+      "ingredient": "Sugar",
+      "amounts": [
+        {
+          "amount": 120,
+          "unit": "gr"
+        }
+      ]
+    },
+    {
+      "ingredient": "Salt",
+      "amounts": [
+        {
+          "amount": 0.5,
+          "unit": "teaspoon"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "step": "Mix sugar, flour, salt butter until its a smooth dough."
+    },
+    {
+      "step": "Put the mixture in a greased baking pan (approx 20x20cm)."
+    },
+    {
+      "step": "Prick holes in the dough, creating rows."
+    },
+    {
+      "step": "Bake for 30-35 minutes at 180ªC"
+    },
+    {
+      "step": "Cut the shortbread pieces right after you take it out of the oven. Let it cool."
+    }
+  ]
+}

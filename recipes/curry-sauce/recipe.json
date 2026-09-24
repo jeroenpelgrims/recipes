@@ -1,0 +1,128 @@
+{
+  "recipe_name": "Curry sauce",
+  "source_url": "https://www.bbc.co.uk/food/recipes/quick_curry_sauce_51363",
+  "yields": [
+    {
+      "amount": 2,
+      "unit": "people"
+    }
+  ],
+  "ingredients": [
+    {
+      "ingredient": "Sunflower oil",
+      "amounts": [
+        {
+          "amount": 27,
+          "unit": "gr"
+        }
+      ]
+    },
+    {
+      "ingredient": "Garlic",
+      "amounts": [
+        {
+          "amount": 3,
+          "unit": "cloves"
+        }
+      ]
+    },
+    {
+      "ingredient": "Onion",
+      "amounts": [
+        {
+          "amount": 85,
+          "unit": "gr"
+        }
+      ]
+    },
+    {
+      "ingredient": "Fresh ginger",
+      "amounts": [
+        {
+          "amount": 10,
+          "unit": "gr"
+        }
+      ]
+    },
+    {
+      "ingredient": "Curry powder",
+      "amounts": [
+        {
+          "amount": 4,
+          "unit": "gr"
+        }
+      ]
+    },
+    {
+      "ingredient": "Chili flakes",
+      "amounts": [
+        {
+          "amount": 0.5,
+          "unit": "gr"
+        }
+      ]
+    },
+    {
+      "ingredient": "Tomato paste",
+      "amounts": [
+        {
+          "amount": 75,
+          "unit": "gr"
+        }
+      ]
+    },
+    {
+      "ingredient": "Sugar",
+      "amounts": [
+        {
+          "amount": 10,
+          "unit": "gr"
+        }
+      ]
+    },
+    {
+      "ingredient": "Salt",
+      "amounts": [
+        {
+          "amount": 2.5,
+          "unit": "gr"
+        }
+      ]
+    },
+    {
+      "ingredient": "Cream (20%)",
+      "amounts": [
+        {
+          "amount": 100,
+          "unit": "ml"
+        }
+      ]
+    },
+    {
+      "ingredient": "Pepper",
+      "processing": [
+        "to taste"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "step": "Heat the oil in a pan"
+    },
+    {
+      "step": "Add the garlic, onion, and ginger. Cook until soft. Don't let it brown."
+    },
+    {
+      "step": "Add the curry powder, chili flakes and tomato paste. Cook until the tomato paste looks glossy."
+    },
+    {
+      "step": "Add the sugar, salt, pepper and the cream. Cook until the sauce thickens."
+    },
+    {
+      "step": "Cook any other ingredients you want to add in the sauce like chicken, tofu, or vegetables."
+    },
+    {
+      "step": "Add the cooked ingredients to the sauce and serve with rice or naan bread."
+    }
+  ]
+}

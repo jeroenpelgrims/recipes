@@ -1,0 +1,171 @@
+{
+  "recipe_name": "Chili con carne",
+  "ingredients": [
+    {
+      "ingredient": "Ground beef",
+      "amounts": [
+        {
+          "amount": 900,
+          "unit": "gr"
+        }
+      ]
+    },
+    {
+      "ingredient": "Olive oil",
+      "amounts": [
+        {
+          "amount": 2,
+          "unit": "tbsp"
+        }
+      ]
+    },
+    {
+      "ingredient": "Onion",
+      "amounts": [
+        {
+          "amount": 2,
+          "unit": "piece"
+        }
+      ],
+      "processing": [
+        "medium",
+        "chopped"
+      ]
+    },
+    {
+      "ingredient": "Garlic",
+      "amounts": [
+        {
+          "amount": 2,
+          "unit": "cloves"
+        }
+      ],
+      "processing": [
+        "minced"
+      ]
+    },
+    {
+      "ingredient": "Green bell pepper",
+      "amounts": [
+        {
+          "amount": 1,
+          "unit": "piece"
+        }
+      ],
+      "processing": [
+        "medium",
+        "chopped"
+      ]
+    },
+    {
+      "ingredient": "Chili powder",
+      "amounts": [
+        {
+          "amount": 2,
+          "unit": "tsp"
+        }
+      ]
+    },
+    {
+      "ingredient": "Salt",
+      "amounts": [
+        {
+          "amount": 1,
+          "unit": "tsp"
+        }
+      ]
+    },
+    {
+      "ingredient": "Cayenne pepper",
+      "amounts": [
+        {
+          "amount": 0.125,
+          "unit": "tsp"
+        }
+      ]
+    },
+    {
+      "ingredient": "Beef bouillon",
+      "amounts": [
+        {
+          "amount": 3,
+          "unit": "granules"
+        }
+      ]
+    },
+    {
+      "ingredient": "Cinnamon powder",
+      "amounts": [
+        {
+          "amount": 0.25,
+          "unit": "tsp"
+        }
+      ]
+    },
+    {
+      "ingredient": "Ground cumin",
+      "amounts": [
+        {
+          "amount": 1,
+          "unit": "tsp"
+        }
+      ]
+    },
+    {
+      "ingredient": "Oregano",
+      "amounts": [
+        {
+          "amount": 1,
+          "unit": "tsp"
+        }
+      ]
+    },
+    {
+      "ingredient": "Canned tomatoes",
+      "amounts": [
+        {
+          "amount": 800,
+          "unit": "gr"
+        }
+      ]
+    },
+    {
+      "ingredient": "Water",
+      "amounts": [
+        {
+          "amount": 237,
+          "unit": "ml"
+        }
+      ]
+    },
+    {
+      "ingredient": "Kidney beans",
+      "amounts": [
+        {
+          "amount": 450,
+          "unit": "gr"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "step": "Add the olive oil to a pot."
+    },
+    {
+      "step": "Add the onion, garlic, and green bell pepper to the pot and cook until soft."
+    },
+    {
+      "step": "Add the ground beef and cook until browned."
+    },
+    {
+      "step": "Add the chili powder, salt, beef bouillon granules, cayenne pepper, oregano, ground cumin, and cinnamon powder."
+    },
+    {
+      "step": "Add the canned tomatoes, water, and kidney beans."
+    },
+    {
+      "step": "Cook for about 1 hour on low to medium heat."
+    }
+  ]
+}

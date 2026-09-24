@@ -1,0 +1,104 @@
+{
+  "recipe_name": "Oatmeal pancakes",
+  "source_url": "https://www.youtube.com/watch?v=L7GHP1u5S6c",
+  "yields": [
+    {
+      "amount": 2,
+      "unit": "Servings"
+    }
+  ],
+  "ingredients": [
+    {
+      "ingredient": "Butter",
+      "amounts": [
+        {
+          "amount": 1,
+          "unit": "tablespoon"
+        }
+      ]
+    },
+    {
+      "ingredient": "Oatmeal",
+      "amounts": [
+        {
+          "amount": 100,
+          "unit": "gr"
+        }
+      ]
+    },
+    {
+      "ingredient": "Honey",
+      "amounts": [
+        {
+          "amount": 42,
+          "unit": "gr"
+        }
+      ]
+    },
+    {
+      "ingredient": "Milk",
+      "amounts": [
+        {
+          "amount": 63,
+          "unit": "gr"
+        }
+      ]
+    },
+    {
+      "ingredient": "Egg",
+      "amounts": [
+        {
+          "amount": 2,
+          "unit": "piece"
+        }
+      ]
+    },
+    {
+      "ingredient": "Baking soda",
+      "amounts": [
+        {
+          "amount": 0.5,
+          "unit": "teaspoon"
+        }
+      ]
+    },
+    {
+      "ingredient": "Baking powder",
+      "amounts": [
+        {
+          "amount": 0.5,
+          "unit": "teaspoon"
+        }
+      ]
+    },
+    {
+      "ingredient": "Vanilla extract",
+      "amounts": [
+        {
+          "amount": 2,
+          "unit": "teaspoon"
+        }
+      ]
+    },
+    {
+      "ingredient": "Vinegar",
+      "amounts": [
+        {
+          "amount": 1,
+          "unit": "teaspoon"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "step": "Mix all the ingredients except the butter together."
+    },
+    {
+      "step": "Add some butter to a pan"
+    },
+    {
+      "step": "Add some mixture to the pan and bake until golden brown on both sides."
+    }
+  ]
+}

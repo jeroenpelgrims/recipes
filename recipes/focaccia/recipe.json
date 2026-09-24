@@ -1,0 +1,158 @@
+{
+  "recipe_name": "Rosemary Garlic Focaccia Bread",
+  "source_url": "https://www.inspiredtaste.net/19313/easy-focaccia-bread-recipe-with-herbs/",
+  "yields": [
+    {
+      "amount": 15,
+      "unit": "Servings"
+    }
+  ],
+  "ingredients": [
+    {
+      "ingredient": "Olive oil",
+      "amounts": [
+        {
+          "amount": 120,
+          "unit": "ml"
+        }
+      ]
+    },
+    {
+      "ingredient": "Garlic",
+      "amounts": [
+        {
+          "amount": 2,
+          "unit": "clove"
+        }
+      ],
+      "processing": [
+        "finely minced"
+      ]
+    },
+    {
+      "ingredient": "Fresh thyme",
+      "amounts": [
+        {
+          "amount": 1,
+          "unit": "tbsp"
+        }
+      ],
+      "substitutions": [
+        {
+          "Dried thyme": {
+            "amounts": [
+              {
+                "amount": 1,
+                "unit": "tsp"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "ingredient": "Fresh rosemary",
+      "amounts": [
+        {
+          "amount": 1,
+          "unit": "tbsp"
+        }
+      ],
+      "substitutions": [
+        {
+          "Dried rosemary": {
+            "amounts": [
+              {
+                "amount": 1,
+                "unit": "tsp"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "ingredient": "Black pepper",
+      "amounts": [
+        {
+          "amount": 0.25,
+          "unit": "tsp"
+        }
+      ]
+    },
+    {
+      "ingredient": "Warm water",
+      "amounts": [
+        {
+          "amount": 235,
+          "unit": "ml"
+        }
+      ]
+    },
+    {
+      "ingredient": "Dry yeast",
+      "amounts": [
+        {
+          "amount": 14,
+          "unit": "gr"
+        }
+      ]
+    },
+    {
+      "ingredient": "Honey",
+      "amounts": [
+        {
+          "amount": 1,
+          "unit": "tsp"
+        }
+      ]
+    },
+    {
+      "ingredient": "Flour",
+      "amounts": [
+        {
+          "amount": 315,
+          "unit": "gr"
+        }
+      ]
+    },
+    {
+      "ingredient": "Salt",
+      "amounts": [
+        {
+          "amount": 1,
+          "unit": "tsp"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "step": "In a skillet, combine the oil, garlic, thyme, rosemary and black pepper. Place the pan over low heat and cook, stirring occasionally, 5 to 10 minutes or until aromatic, but before the garlic browns. Set aside."
+    },
+    {
+      "step": "In a large bowl, combine the warm water, yeast, and honey. Stir a few times then let sit for 5 minutes."
+    },
+    {
+      "step": "Add 100 gr of the flour and half of the infused garlic-olive oil mixture to the bowl with yeast and honey. Stir 3 to 4 times until the flour has moistened. Let sit for another 5 minutes."
+    },
+    {
+      "step": "Stir in the remaining 1 1/2 cups of flour and the salt. When the dough comes together, transfer to a floured board and knead 10 to 15 times until smooth."
+    },
+    {
+      "step": "Transfer the dough to a large oiled bowl, cover with a warm, damp towel and let rise for 1 hour."
+    },
+    {
+      "step": "After 1 hour, heat the oven to 230&deg; C."
+    },
+    {
+      "step": "Use some of the remaining garlic-olive oil mixture to oil a 22x33cm baking tray."
+    },
+    {
+      "step": "Transfer the dough to the tray and spread it out to fill the tray. Use your fingers to dimple the dough then drizzle the top with the remaining oil mixture. Let the dough rise for 20 minutes until it puffs slightly."
+    },
+    {
+      "step": "Bake until golden brown, 15 to 20 minutes. Cool baked focaccia bread on a wire rack."
+    }
+  ]
+}

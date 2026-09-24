@@ -1,0 +1,137 @@
+{
+  "recipe_name": "Kanelboller (Cinnamon rolls)",
+  "source_url": "https://www.tine.no/oppskrifter/bakst/sot-gjarbakst/kanelboller",
+  "yields": [
+    {
+      "amount": 24,
+      "unit": "pieces"
+    }
+  ],
+  "ingredients": [
+    {
+      "ingredient": "Butter",
+      "amounts": [
+        {
+          "amount": 350,
+          "unit": "gr"
+        }
+      ]
+    },
+    {
+      "ingredient": "Milk (3,5%)",
+      "amounts": [
+        {
+          "amount": 500,
+          "unit": "ml"
+        }
+      ]
+    },
+    {
+      "ingredient": "Yeast (dried)",
+      "amounts": [
+        {
+          "amount": 20,
+          "unit": "gr"
+        }
+      ],
+      "substitutions": [
+        {
+          "Live yeast": {
+            "amounts": [
+              {
+                "amount": 50,
+                "unit": "gr"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "ingredient": "Salt",
+      "amounts": [
+        {
+          "amount": 3,
+          "unit": "gr"
+        }
+      ]
+    },
+    {
+      "ingredient": "Sugar",
+      "amounts": [
+        {
+          "amount": 260,
+          "unit": "gr"
+        }
+      ]
+    },
+    {
+      "ingredient": "Egg",
+      "amounts": [
+        {
+          "amount": 2,
+          "unit": "Piece"
+        }
+      ]
+    },
+    {
+      "ingredient": "Flour",
+      "amounts": [
+        {
+          "amount": 825,
+          "unit": "gr"
+        }
+      ]
+    },
+    {
+      "ingredient": "Cardamom",
+      "amounts": [
+        {
+          "amount": 4,
+          "unit": "gr"
+        }
+      ]
+    },
+    {
+      "ingredient": "Ground cinnamon",
+      "amounts": [
+        {
+          "amount": 24,
+          "unit": "gr"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "step": "Melt 40% of the butter in a pan and add the milk. Heat to 37ªC."
+    },
+    {
+      "step": "Add the yeast into the mixture and blend in"
+    },
+    {
+      "step": "Add the salt, 40% of the sugar, cardamom, 50% of the eggs, most of the flour.\nKnead till a smooth and loose dough.\n"
+    },
+    {
+      "step": "For the filling: In a separate bowl, mix the rest of the butter, sugar and the cinnamon together.\n"
+    },
+    {
+      "step": "Separate the dough into sheets of about 20 x 45 cm. (2 sheets for 24 pieces, 1 for 12 pieces)\nSmear out the filling onto the sheets.\n"
+    },
+    {
+      "step": "Roll up the sheets and cut into buns of about 2cm wide."
+    },
+    {
+      "step": "Put the buns on a sheet of baking paper and let them rise for about 30 minutes."
+    },
+    {
+      "step": "Set the oven to 250ªC"
+    },
+    {
+      "step": "Right before baking brush the top of the buns with the rest of the (whisked) egg and sprinkle with a bit of sugar."
+    },
+    {
+      "step": "Bake for about 7-8 minutes."
+    }
+  ]
+}

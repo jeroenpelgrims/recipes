@@ -1,0 +1,70 @@
+{
+  "recipe_name": "Satay Sauce",
+  "yields": [
+    {
+      "amount": 4,
+      "unit": "people"
+    }
+  ],
+  "ingredients": [
+    {
+      "ingredient": "Lime Juice",
+      "amounts": [
+        {
+          "amount": 1,
+          "unit": "lime"
+        }
+      ]
+    },
+    {
+      "ingredient": "Honey",
+      "amounts": [
+        {
+          "amount": 14,
+          "unit": "g"
+        }
+      ]
+    },
+    {
+      "ingredient": "Soy Sauce",
+      "amounts": [
+        {
+          "amount": 32,
+          "unit": "g"
+        }
+      ]
+    },
+    {
+      "ingredient": "Curry Powder",
+      "amounts": [
+        {
+          "amount": 12,
+          "unit": "g"
+        }
+      ]
+    },
+    {
+      "ingredient": "Peanut Butter",
+      "amounts": [
+        {
+          "amount": 90,
+          "unit": "g"
+        }
+      ]
+    },
+    {
+      "ingredient": "Coconut milk",
+      "amounts": [
+        {
+          "amount": 330,
+          "unit": "g"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "step": "Mix all ingredients in a pot on a medium fire. Cook until the sauce thickens, stirring occasionally. Serve with Quinoa and chicken."
+    }
+  ]
+}

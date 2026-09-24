@@ -1,0 +1,70 @@
+{
+  "recipe_name": "Garlic sauce",
+  "yields": [
+    {
+      "amount": 150,
+      "unit": "ml"
+    }
+  ],
+  "ingredients": [
+    {
+      "ingredient": "Garlic",
+      "amounts": [
+        {
+          "amount": 2,
+          "unit": "cloves"
+        }
+      ]
+    },
+    {
+      "ingredient": "Greek yoghurt",
+      "amounts": [
+        {
+          "amount": 150,
+          "unit": "gr"
+        }
+      ]
+    },
+    {
+      "ingredient": "Lemon juice",
+      "amounts": [
+        {
+          "amount": 1,
+          "unit": "tbsp"
+        }
+      ]
+    },
+    {
+      "ingredient": "Mayonnaise",
+      "amounts": [
+        {
+          "amount": 1,
+          "unit": "tbsp"
+        }
+      ]
+    },
+    {
+      "ingredient": "pepper"
+    },
+    {
+      "ingredient": "salt"
+    },
+    {
+      "ingredient": "oregano"
+    },
+    {
+      "ingredient": "garlic powder"
+    }
+  ],
+  "steps": [
+    {
+      "step": "Cut the garlic in to small pieces and add to a mixing bowl"
+    },
+    {
+      "step": "Add the yoghurt, mayo, lemon juice"
+    },
+    {
+      "step": "Add the rest of the herbs and spices to taste"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "recipe_name": "Homemade insecticide & fungicide",
+  "source_url": "https://www.youtube.com/watch?v=UVMS-4h5rPk",
+  "yields": [
+    {
+      "amount": 500,
+      "unit": "ml"
+    }
+  ],
+  "ingredients": [
+    {
+      "ingredient": "Baking soda",
+      "amounts": [
+        {
+          "amount": 1,
+          "unit": "teaspoon"
+        }
+      ]
+    },
+    {
+      "ingredient": "Water",
+      "amounts": [
+        {
+          "amount": 500,
+          "unit": "ml"
+        }
+      ]
+    },
+    {
+      "ingredient": "Vegetable oil",
+      "amounts": [
+        {
+          "amount": 1,
+          "unit": "teaspoon"
+        }
+      ]
+    },
+    {
+      "ingredient": "Dish soap",
+      "amounts": [
+        {
+          "amount": 1,
+          "unit": "drop"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "step": "Add all the ingredients to a container and mix well. (The amount of baking soda is according to the required strength of the mixture. 1 = preventative, 3 = leaves are white of mildew)"
+    },
+    {
+      "step": "Pour mixture into spray bottle."
+    },
+    {
+      "step": "Spray on the top and bottom of the leaves of the plants."
+    }
+  ]
+}

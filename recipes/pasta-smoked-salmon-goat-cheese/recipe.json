@@ -1,0 +1,131 @@
+{
+  "recipe_name": "Pasta with smoked salmon, goat cheese and spinach",
+  "source_url": "https://dagelijksekost.een.be/gerechten/pasta-met-gerookte-zalm-geitenkaas-en-spinazie",
+  "yields": [
+    {
+      "amount": 4,
+      "unit": "people"
+    }
+  ],
+  "ingredients": [
+    {
+      "ingredient": "Spinach",
+      "amounts": [
+        {
+          "amount": 250,
+          "unit": "gr"
+        }
+      ]
+    },
+    {
+      "ingredient": "Olive oil"
+    },
+    {
+      "ingredient": "Garlic",
+      "amounts": [
+        {
+          "amount": 1,
+          "unit": "clove"
+        }
+      ]
+    },
+    {
+      "ingredient": "Pepper"
+    },
+    {
+      "ingredient": "Ricotta",
+      "amounts": [
+        {
+          "amount": 150,
+          "unit": "gr"
+        }
+      ]
+    },
+    {
+      "ingredient": "Salt"
+    },
+    {
+      "ingredient": "Spaghetti",
+      "amounts": [
+        {
+          "amount": 400,
+          "unit": "gr"
+        }
+      ]
+    },
+    {
+      "ingredient": "Onion",
+      "amounts": [
+        {
+          "amount": 1,
+          "unit": "piece"
+        }
+      ]
+    },
+    {
+      "ingredient": "Smoked salmon",
+      "amounts": [
+        {
+          "amount": 250,
+          "unit": "gr"
+        }
+      ]
+    },
+    {
+      "ingredient": "Pine nuts",
+      "amounts": [
+        {
+          "amount": 1,
+          "unit": "handful"
+        }
+      ]
+    },
+    {
+      "ingredient": "Goat cheese",
+      "amounts": [
+        {
+          "amount": 250,
+          "unit": "gr"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "step": "Boil water with a bit of salt"
+    },
+    {
+      "step": "Clean the spinach"
+    },
+    {
+      "step": "Heat a bit of olive oil in a pan and cook 3/4ths of the spinach"
+    },
+    {
+      "step": "Peal the garlic and cut ti finely. Add the pulp to the spinach and season with pepper and salt."
+    },
+    {
+      "step": "Add the cookedstewed spinach to a blender or cutter with a bit of water. Add the ricotta and goat cheese. Blend until smooth."
+    },
+    {
+      "step": "Boil the spaghetti in the water"
+    },
+    {
+      "step": "Heat some olive oil in a pan"
+    },
+    {
+      "step": "Peal the onion and cut it into strips. Cook it in the oil"
+    },
+    {
+      "step": "Add the pine nuts and let it roast for a moment"
+    },
+    {
+      "step": "Add the pasta to the onions and pine pits."
+    },
+    {
+      "step": "Add the sauce to the spaghetti together with a bit of the spaghetti water. Add the rest of the spinach leaves. Mix everything."
+    },
+    {
+      "step": "Rip the salmon into pieces. Add to the pasta when serving."
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "recipe_name": "Egg Roll Bowl",
+  "source_url": "https://www.delish.com/cooking/recipe-ideas/a56236/egg-roll-bowls-recipe/",
+  "yields": [
+    {
+      "amount": 4,
+      "unit": "people"
+    }
+  ],
+  "ingredients": [
+    {
+      "ingredient": "Olive oil",
+      "amounts": [
+        {
+          "amount": 13,
+          "unit": "g"
+        }
+      ]
+    },
+    {
+      "ingredient": "Garlic",
+      "amounts": [
+        {
+          "amount": 1,
+          "unit": "clove"
+        }
+      ]
+    },
+    {
+      "ingredient": "Ginger, Raw",
+      "amounts": [
+        {
+          "amount": 6,
+          "unit": "g"
+        }
+      ]
+    },
+    {
+      "ingredient": "Filet américain",
+      "amounts": [
+        {
+          "amount": 453,
+          "unit": "g"
+        }
+      ]
+    },
+    {
+      "ingredient": "Sesame Oil",
+      "amounts": [
+        {
+          "amount": 14,
+          "unit": "g"
+        }
+      ]
+    },
+    {
+      "ingredient": "Cabbage, Raw",
+      "amounts": [
+        {
+          "amount": 225,
+          "unit": "g"
+        }
+      ]
+    },
+    {
+      "ingredient": "Onion, Raw",
+      "amounts": [
+        {
+          "amount": 80,
+          "unit": "g"
+        }
+      ]
+    },
+    {
+      "ingredient": "Carrots, Raw",
+      "amounts": [
+        {
+          "amount": 110,
+          "unit": "g"
+        }
+      ]
+    },
+    {
+      "ingredient": "Soy Sauce",
+      "amounts": [
+        {
+          "amount": 66,
+          "unit": "gr"
+        }
+      ]
+    },
+    {
+      "ingredient": "Sriracha",
+      "amounts": [
+        {
+          "amount": 15,
+          "unit": "g"
+        }
+      ]
+    },
+    {
+      "ingredient": "Spring Onions",
+      "amounts": [
+        {
+          "amount": 1,
+          "unit": "piece"
+        }
+      ]
+    },
+    {
+      "ingredient": "Sesame Seeds",
+      "amounts": [
+        {
+          "amount": 1,
+          "unit": "tbsp, whole pieces"
+        }
+      ]
+    },
+    {
+      "ingredient": "Rice paper",
+      "amounts": [
+        {
+          "amount": 12,
+          "unit": "pieces"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "step": "Cook the ground beef, then move it to the side of the pan"
+    },
+    {
+      "step": "Add the sesame oil and cook the carrot, onion, cabbage"
+    },
+    {
+      "step": "Add the soy sauce and sriracha and mix. Cook until tender. Season with salt."
+    },
+    {
+      "step": "1-by-1, wet a rice paper and add about 50gr of the cooked mixture. Roll the rice wrap. Repeat."
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "recipe_name": "Low-sugar blueberry muffins",
+  "source_url": "https://cookieandkate.com/healthy-blueberry-muffins/",
+  "yields": [
+    {
+      "amount": 12,
+      "unit": "Servings"
+    }
+  ],
+  "ingredients": [
+    {
+      "ingredient": "Flour",
+      "amounts": [
+        {
+          "amount": 280,
+          "unit": "gr"
+        }
+      ]
+    },
+    {
+      "ingredient": "Baking powder",
+      "amounts": [
+        {
+          "amount": 16,
+          "unit": "gr"
+        }
+      ]
+    },
+    {
+      "ingredient": "Salt",
+      "amounts": [
+        {
+          "amount": 4,
+          "unit": "gr"
+        }
+      ]
+    },
+    {
+      "ingredient": "Cinnamon",
+      "amounts": [
+        {
+          "amount": 1.5,
+          "unit": "gr"
+        }
+      ]
+    },
+    {
+      "ingredient": "Olive oil",
+      "amounts": [
+        {
+          "amount": 60,
+          "unit": "gr"
+        }
+      ]
+    },
+    {
+      "ingredient": "Eggs",
+      "amounts": [
+        {
+          "amount": 2,
+          "unit": "units"
+        }
+      ]
+    },
+    {
+      "ingredient": "Greek yoghurt (10% fat)",
+      "amounts": [
+        {
+          "amount": 380,
+          "unit": "gr"
+        }
+      ]
+    },
+    {
+      "ingredient": "Vanilla sugar",
+      "amounts": [
+        {
+          "amount": 10,
+          "unit": "gr"
+        }
+      ]
+    },
+    {
+      "ingredient": "Blueberries",
+      "amounts": [
+        {
+          "amount": 133,
+          "unit": "gr"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "step": "Preheat the oven to 200°C"
+    },
+    {
+      "step": "Add all the dry ingredients to a bowl and mix them. (Flour, Baking powder, Salt, Cinnamon, Vanilla sugar)"
+    },
+    {
+      "step": "Make a hole in the middle of the dry ingredients and add the rest of the ingredients except for the blueberries. (Olive oil, Eggs, Greek yoghurt) Mix thoroughly."
+    },
+    {
+      "step": "Add the blueberries and gently mix them through the mixture."
+    },
+    {
+      "step": "Divide the mixture over a buttered muffin pan. Bake for 16-20 minutes."
+    }
+  ]
+}
