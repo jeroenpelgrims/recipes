@@ -1,4 +1,5 @@
-use recipes::recipe::Recipe;
+mod recipe;
+use recipe::Recipe;
 
 fn main() {
     let path = std::env::args().nth(1).unwrap_or_else(|| {
