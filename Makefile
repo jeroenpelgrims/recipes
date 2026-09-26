@@ -1,13 +1,16 @@
-# Build a PDF of all recipes using typst
-#
-# Usage:
-#   make pdf        # build the PDF
-#   make manifest   # regenerate pdf/recipes.json
-
-.PHONY: pdf manifest
+.PHONY: pdf manifest check-recipe check clean
 
 pdf: manifest
 	typst compile --root . pdf/main.typ recipes.pdf
 
 manifest:
 	ls -d recipes/*/ | xargs -n1 basename | jq -R . | jq -s . > pdf/recipes.json
+
+check-recipe:
+	cargo build --release --manifest-path site/Cargo.toml --bin check-recipe
+
+check: check-recipe
+	ls recipes/*/recipe.json | xargs -n1 ./site/target/release/check-recipe
+
+clean:
+	cargo clean --manifest-path site/Cargo.toml
