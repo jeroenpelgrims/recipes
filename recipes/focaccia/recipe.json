@@ -39,14 +39,13 @@
       ],
       "substitutions": [
         {
-          "Dried thyme": {
-            "amounts": [
-              {
-                "amount": 1,
-                "unit": "tsp"
-              }
-            ]
-          }
+          "ingredient": "Dried thyme",
+          "amounts": [
+            {
+              "amount": 1,
+              "unit": "tsp"
+            }
+          ]
         }
       ]
     },
@@ -60,14 +59,13 @@
       ],
       "substitutions": [
         {
-          "Dried rosemary": {
-            "amounts": [
-              {
-                "amount": 1,
-                "unit": "tsp"
-              }
-            ]
-          }
+          "ingredient": "Dried rosemary",
+          "amounts": [
+            {
+              "amount": 1,
+              "unit": "tsp"
+            }
+          ]
         }
       ]
     },

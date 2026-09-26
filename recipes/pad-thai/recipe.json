@@ -48,10 +48,10 @@
       ],
       "substitutions": [
         {
-          "Chicken": null
+          "ingredient": "Chicken"
         },
         {
-          "Tofu": null
+          "ingredient": "Tofu"
         }
       ]
     },
@@ -161,7 +161,7 @@
       ],
       "substitutions": [
         {
-          "Rice vinegar": null
+          "ingredient": "Rice vinegar"
         }
       ]
     },
@@ -175,14 +175,13 @@
       ],
       "substitutions": [
         {
-          "Piri-piri": {
-            "amounts": [
-              {
-                "amount": 2,
-                "unit": "gr"
-              }
-            ]
-          }
+          "ingredient": "Piri-piri",
+          "amounts": [
+            {
+              "amount": 2,
+              "unit": "gr"
+            }
+          ]
         }
       ]
     },

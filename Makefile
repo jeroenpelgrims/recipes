@@ -1,6 +1,6 @@
 .PHONY: pdf manifest check-recipe check clean
 
-pdf: manifest
+pdf: manifest check
 	typst compile --root . pdf/main.typ recipes.pdf
 
 manifest:

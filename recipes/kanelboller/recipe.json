@@ -36,14 +36,13 @@
       ],
       "substitutions": [
         {
-          "Live yeast": {
-            "amounts": [
-              {
-                "amount": 50,
-                "unit": "gr"
-              }
-            ]
-          }
+          "ingredient": "Live yeast",
+          "amounts": [
+            {
+              "amount": 50,
+              "unit": "gr"
+            }
+          ]
         }
       ]
     },
