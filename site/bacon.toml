@@ -1,0 +1,9 @@
+default_job = "site"
+
+# Rebuild the static site whenever sources change.
+# src/, Cargo.toml and Cargo.lock are watched by default;
+# watch adds the template files and the recipe data.
+[jobs.site]
+command = ["sh", "-c", "cargo run --release -- build && miniserve -p 3000 out"]
+need_stdout = true
+watch = ["templates", "../recipes", "src"]

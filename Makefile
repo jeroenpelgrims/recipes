@@ -1,4 +1,4 @@
-.PHONY: pdf manifest check-recipe build-site check site miniserve dev clean
+.PHONY: pdf manifest recipes-bin check site live-server dev bacon watch serve clean
 
 out:
 	mkdir out
@@ -9,23 +9,34 @@ pdf: manifest check out
 manifest:
 	ls -d recipes/*/ | xargs -n1 basename | jq -R . | jq -s . > pdf/recipes.json
 
-check-recipe:
-	cargo build --release --manifest-path site/Cargo.toml --bin check-recipe
+recipes-bin:
+	cargo build --release --manifest-path site/Cargo.toml
 
-check: check-recipe
-	ls recipes/*/recipe.json | xargs -n1 ./site/target/release/check-recipe
+check: recipes-bin
+	./site/target/release/recipes ./recipes check
 
-build-site:
-	cargo build --release --manifest-path site/Cargo.toml --bin build-site
-
-site: build-site out
-	./site/target/release/build-site
+site: recipes-bin out
+	./site/target/release/recipes ./recipes build
 
 miniserve:
-	@command -v miniserve >/dev/null 2>&1 || cargo install miniserve
+	@command -v miniserve >/dev/null 2>&1 || cargo install miniserve --locked
 
-dev: site miniserve
-	miniserve -p 3000 --index index.html out
+bacon:
+	@command -v bacon >/dev/null 2>&1 || cargo install bacon --locked
+
+serve: build bacon miniserve 
+	bacon site
+
+# watch: bacon
+# 	bacon site/
+
+# Run the rebuild watcher and dev server together: bacon (headless)
+# rebuilds out/ on source changes, live-server reloads the browser.
+# dev: site live-server bacon
+# 	@bacon --headless --job site site/ & \
+# 	bacon_pid=$$!; \
+# 	live-server -p 3000 out; \
+# 	kill $$bacon_pid 2>/dev/null; true
 
 clean:
 	rm -rf out

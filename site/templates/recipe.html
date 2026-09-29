@@ -1,10 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-    <title>{{ recipe.recipe_name }}</title>
-</head>
-<body>
+{% extends "base.html" %}
+
+{% block title %}{{ recipe.recipe_name }}{% endblock %}
+
+{% block content %}
     <h1>{{ recipe.recipe_name }}</h1>
 
     {% if let Some(yields) = recipe.yields.as_ref() -%}
@@ -30,5 +28,4 @@
         <li>{{ step.step }}</li>
         {% endfor -%}
     </ol>
-</body>
-</html>
+{% endblock %}
