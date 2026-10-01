@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block title %}Jeroen's recipe book{% endblock %}
+
+{% block content %}
+    <h1>Jeroen's recipe book</h1>
+
+    <input id="search" type="text" placeholder="Search">
+
+    <ul id="recipes">
+        {% for recipe in recipes %}
+        <li data-recipeName="{{ recipe.recipe.recipe_name }}">
+            <a href="/{{ recipe.slug }}/">{{ recipe.recipe.recipe_name }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+{% endblock %}

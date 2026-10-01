@@ -10,13 +10,13 @@ manifest:
 	ls -d recipes/*/ | xargs -n1 basename | jq -R . | jq -s . > pdf/recipes.json
 
 recipes-bin:
-	cargo build --release --manifest-path site/Cargo.toml
+	cargo build --release
 
 check: recipes-bin
-	./site/target/release/recipes ./recipes check
+	./target/release/recipes check ./recipes
 
-site: recipes-bin out
-	./site/target/release/recipes ./recipes build
+build: recipes-bin out
+	./target/release/recipes build ./recipes --out-dir out
 
 miniserve:
 	@command -v miniserve >/dev/null 2>&1 || cargo install miniserve --locked
@@ -24,19 +24,11 @@ miniserve:
 bacon:
 	@command -v bacon >/dev/null 2>&1 || cargo install bacon --locked
 
-serve: build bacon miniserve 
+watch: bacon miniserve 
 	bacon site
 
-# watch: bacon
-# 	bacon site/
-
-# Run the rebuild watcher and dev server together: bacon (headless)
-# rebuilds out/ on source changes, live-server reloads the browser.
-# dev: site live-server bacon
-# 	@bacon --headless --job site site/ & \
-# 	bacon_pid=$$!; \
-# 	live-server -p 3000 out; \
-# 	kill $$bacon_pid 2>/dev/null; true
+serve: miniserve 
+	miniserve -p 3000 --index index.html out
 
 clean:
 	rm -rf out

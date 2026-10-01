@@ -1,7 +1,7 @@
 use itertools::{Either, Itertools};
 use std::path::PathBuf;
 
-use crate::recipe::{self, Recipe};
+use crate::recipe::Recipe;
 
 #[derive(Debug, thiserror::Error)]
 pub enum ParseRecipeError {
@@ -19,12 +19,12 @@ pub enum ParseRecipeError {
     },
 }
 
-pub fn check(files: &[PathBuf]) -> Vec<Recipe> {
-    let recipes = files.iter().map(parse_recipe);
+pub fn check(files: &[PathBuf]) -> Vec<(&PathBuf, Recipe)> {
+    let recipes = files.iter().map(|path| (path, parse_recipe(path)));
 
-    let (recipes, errors): (Vec<Recipe>, Vec<_>) = recipes.partition_map(|r| match r {
-        Ok(recipe) => Either::Left(recipe),
-        Err(msg) => Either::Right(msg),
+    let (recipes, errors): (Vec<_>, Vec<_>) = recipes.partition_map(|r| match r {
+        (path, Ok(recipe)) => Either::Left((path, recipe)),
+        (_, Err(msg)) => Either::Right(msg),
     });
 
     if !errors.is_empty() {

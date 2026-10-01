@@ -157,10 +157,3 @@ pub struct Recipe {
     #[serde(flatten)]
     pub extra: HashMap<String, serde_json::Value>,
 }
-
-impl Recipe {
-    /// Parse a recipe from a JSON string.
-    pub fn from_json(json: &str) -> Result<Self, serde_json::Error> {
-        serde_json::from_str(json)
-    }
-}
