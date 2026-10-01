@@ -1,0 +1,7 @@
+<h2>Steps</h2>
+
+<ol id="steps">
+    {% for step in recipe.steps -%}
+    <li>{{ step.step }}</li>
+    {% endfor -%}
+</ol>

@@ -1,0 +1,27 @@
+<h2>
+    Ingredients
+    {%- if let Some(yields) = recipe.yields -%}
+        {%- if let Some(serving) = yields.first() %}
+    <span id="servings">
+        (<input type="number" value="{{ serving.amount }}" step="any" data-default="{{ serving.amount }}"> {{ serving.unit }})
+    </span>
+        {%- endif -%}
+    {%- endif %}
+</h2>
+
+<ul id="ingredients">
+    {% for ingredient in recipe.ingredients -%}
+    <li>
+        {%- if let Some(amounts) = ingredient.amounts -%}
+            {%- if let Some(amount) = amounts.first() %}
+        <span class="amount">
+            <span class="value" data-default="{{ amount.amount }}">{{ amount.amount }}</span>
+            {{ amount.unit }}
+        </span>
+            {% endif -%}
+        {% endif -%}
+        {{ ingredient.ingredient }}
+        {%- if let Some(processing) = ingredient.processing %} ({{ processing.join(", ") }}){% endif -%}
+    </li>
+    {% endfor -%}
+</ul>

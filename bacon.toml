@@ -4,6 +4,8 @@ default_job = "site"
 # src/, Cargo.toml and Cargo.lock are watched by default;
 # watch adds the template files and the recipe data.
 [jobs.site]
-command = ["sh", "-c", "make build && make serve"]
+command = ["sh", "-c", "make build && exec miniserve -p 3000 --index index.html out"]
 need_stdout = true
+background = false
+on_change_strategy = "kill_then_restart"
 watch = ["templates", "recipes", "src", "static"]

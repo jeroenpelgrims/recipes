@@ -5,27 +5,7 @@
 {% block content %}
     <h1>{{ recipe.recipe_name }}</h1>
 
-    {% if let Some(yields) = recipe.yields.as_ref() -%}
-    <p>Yields: {% for amount in yields %}{{ amount.amount }} {{ amount.unit }}{% endfor %}</p>
-    {%- endif %}
+    {% include "ingredients.html" %}
 
-    <h2>Ingredients</h2>
-    <ul>
-        {% for ingredient in recipe.ingredients -%}
-        <li>
-            {%- if let Some(amounts) = ingredient.amounts.as_ref() -%}
-                {% for amount in amounts %}{{ amount.amount }} {{ amount.unit }} {% endfor -%}
-            {% endif -%}
-            {{ ingredient.ingredient }}
-            {%- if let Some(processing) = ingredient.processing.as_ref() %} ({{ processing.join(", ") }}){% endif -%}
-        </li>
-        {% endfor -%}
-    </ul>
-
-    <h2>Steps</h2>
-    <ol>
-        {% for step in recipe.steps -%}
-        <li>{{ step.step }}</li>
-        {% endfor -%}
-    </ol>
+    {% include "steps.html" %}
 {% endblock %}
