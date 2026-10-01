@@ -82,7 +82,8 @@ h2 {
 #recipes li {
   margin-top: 0.25em;
   margin-bottom: 0.25em;
-  padding-left: 1em;
+  display: flex;
+  align-items: center;
 }
 
 #recipes li.hidden {
@@ -91,11 +92,7 @@ h2 {
 
 #recipes li:before {
   content: "\1D197";
-  vertical-align: middle;
   color: #ccc;
-  display: inline-block;
-  padding-top: 0.2em;
-  margin-left: -1em;
   margin-right: 0.25em;
 }
 

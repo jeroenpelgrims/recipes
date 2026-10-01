@@ -6,4 +6,4 @@ default_job = "site"
 [jobs.site]
 command = ["sh", "-c", "make build && make serve"]
 need_stdout = true
-watch = ["templates", "recipes", "src"]
+watch = ["templates", "recipes", "src", "static"]

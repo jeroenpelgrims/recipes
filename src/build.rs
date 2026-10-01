@@ -10,6 +10,7 @@ use crate::{
 
 pub fn build(recipes: Vec<(&PathBuf, Recipe)>, out_dir: &Path) -> io::Result<()> {
     std::fs::copy("static/style.css", out_dir.join("style.css"))?;
+    std::fs::copy("static/script.js", out_dir.join("script.js"))?;
     IndexTemplate {
         recipes: recipes
             .into_iter()
