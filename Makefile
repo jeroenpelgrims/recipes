@@ -15,7 +15,7 @@ recipes-bin:
 check: recipes-bin
 	./target/release/recipes check ./recipes
 
-build: recipes-bin out
+build: recipes-bin out pdf
 	./target/release/recipes build ./recipes --out-dir out
 
 miniserve:
