@@ -5,7 +5,7 @@
 
 #for (i, folder) in recipe-folders.enumerate() {
   let recipe = json("../recipes/" + folder + "/recipe.json")
-  render-recipe(recipe)
+  render-recipe(recipe, folder)
   if i < recipe-folders.len() - 1 {
     pagebreak()
   }

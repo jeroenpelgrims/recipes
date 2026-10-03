@@ -1,6 +1,7 @@
 {
   "recipe_name": "Shakshuka",
   "source_url": "https://downshiftology.com/recipes/shakshuka/",
+  "X-image": "image.jpg",
   "yields": [
     {
       "amount": 4,
@@ -25,9 +26,7 @@
           "unit": "piece"
         }
       ],
-      "processing": [
-        "diced"
-      ]
+      "processing": ["diced"]
     },
     {
       "ingredient": "Red bell pepper",
@@ -37,10 +36,7 @@
           "unit": "piece"
         }
       ],
-      "processing": [
-        "seeded",
-        "diced"
-      ]
+      "processing": ["seeded", "diced"]
     },
     {
       "ingredient": "Garlic",
@@ -50,9 +46,7 @@
           "unit": "cloves"
         }
       ],
-      "processing": [
-        "finely chopped"
-      ]
+      "processing": ["finely chopped"]
     },
     {
       "ingredient": "Ground cumin",
@@ -101,9 +95,7 @@
     },
     {
       "ingredient": "Salt and pepper",
-      "processing": [
-        "to taste"
-      ]
+      "processing": ["to taste"]
     },
     {
       "ingredient": "Parsley",
@@ -113,9 +105,7 @@
           "unit": "bunch"
         }
       ],
-      "processing": [
-        "chopped"
-      ]
+      "processing": ["chopped"]
     },
     {
       "ingredient": "Cilantro",
@@ -125,9 +115,7 @@
           "unit": "bunch"
         }
       ],
-      "processing": [
-        "chopped"
-      ]
+      "processing": ["chopped"]
     }
   ],
   "steps": [

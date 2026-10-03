@@ -157,3 +157,10 @@ pub struct Recipe {
     #[serde(flatten)]
     pub extra: HashMap<String, serde_json::Value>,
 }
+
+impl Recipe {
+    /// Path/URL of the recipe's image, from the `X-image` extension field.
+    pub fn image(&self) -> Option<&str> {
+        self.extra.get("X-image").and_then(|v| v.as_str())
+    }
+}
