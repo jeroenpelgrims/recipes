@@ -8,4 +8,13 @@
     {% include "ingredients.html" %}
 
     {% include "steps.html" %}
+
+    {% if let Some(source_url) = recipe.source_url %}
+    <section id="metaRecipe">
+        <div>
+            Original recipe:
+            <a href="{{ source_url }}">Click here</a>
+        </div>
+    </section>
+    {% endif %}
 {% endblock %}
