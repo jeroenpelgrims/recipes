@@ -1,6 +1,8 @@
 {
   "recipe_name": "Low-sugar blueberry muffins",
   "source_url": "https://cookieandkate.com/healthy-blueberry-muffins/",
+  "X-image": "image.jpg",
+  "X-image-attribution": "SKopp, CC BY-SA 3.0, via Wikimedia Commons",
   "yields": [
     {
       "amount": 12,

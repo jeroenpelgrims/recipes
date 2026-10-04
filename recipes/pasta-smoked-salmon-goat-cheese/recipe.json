@@ -1,6 +1,8 @@
 {
   "recipe_name": "Pasta with smoked salmon, goat cheese and spinach",
   "source_url": "https://dagelijksekost.een.be/gerechten/pasta-met-gerookte-zalm-geitenkaas-en-spinazie",
+  "X-image": "image.jpg",
+  "X-image-attribution": "JIP, CC BY-SA 4.0, via Wikimedia Commons",
   "yields": [
     {
       "amount": 4,

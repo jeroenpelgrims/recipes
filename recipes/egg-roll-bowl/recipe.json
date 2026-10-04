@@ -1,6 +1,8 @@
 {
   "recipe_name": "Egg Roll Bowl",
   "source_url": "https://www.delish.com/cooking/recipe-ideas/a56236/egg-roll-bowls-recipe/",
+  "X-image": "image.jpg",
+  "X-image-attribution": "Hiroooooo, CC BY-SA 4.0, via Wikimedia Commons",
   "yields": [
     {
       "amount": 4,

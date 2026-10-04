@@ -1,0 +1,154 @@
+{
+  "recipe_name": "Oatmeal bars",
+  "source_url": "https://mustbeyummie.com/snelle-havermoutrepen-een-kidproof-ontbijt/",
+  "source_authors": [
+    "Alexia"
+  ],
+  "X-image": "image.jpg",
+  "X-image-attribution": "sk8geek, CC BY-SA 2.0, via Wikimedia Commons",
+  "yields": [
+    {
+      "amount": 6,
+      "unit": "pieces"
+    }
+  ],
+  "ingredients": [
+    {
+      "ingredient": "Egg"
+    },
+    {
+      "ingredient": "Plant-based yoghurt",
+      "amounts": [
+        {
+          "amount": 1,
+          "unit": "tbsp"
+        }
+      ],
+      "substitutions": [
+        {
+          "ingredient": "Plant-based milk"
+        }
+      ]
+    },
+    {
+      "ingredient": "Oil",
+      "amounts": [
+        {
+          "amount": 50,
+          "unit": "ml"
+        }
+      ],
+      "notes": "The author used Isio 4."
+    },
+    {
+      "ingredient": "Gluten-free oats",
+      "amounts": [
+        {
+          "amount": 110,
+          "unit": "gr"
+        }
+      ]
+    },
+    {
+      "ingredient": "Gluten-free flour",
+      "amounts": [
+        {
+          "amount": 70,
+          "unit": "gr"
+        }
+      ],
+      "notes": "The author uses Schär Mix C."
+    },
+    {
+      "ingredient": "Coconut blossom sugar",
+      "amounts": [
+        {
+          "amount": 50,
+          "unit": "gr"
+        }
+      ],
+      "substitutions": [
+        {
+          "ingredient": "Brown sugar"
+        }
+      ]
+    },
+    {
+      "ingredient": "Cinnamon",
+      "amounts": [
+        {
+          "amount": 0.5,
+          "unit": "tsp"
+        }
+      ]
+    },
+    {
+      "ingredient": "Baking powder",
+      "amounts": [
+        {
+          "amount": 0.5,
+          "unit": "tsp"
+        }
+      ]
+    },
+    {
+      "ingredient": "Vanilla powder",
+      "amounts": [
+        {
+          "amount": 0.5,
+          "unit": "tsp"
+        }
+      ]
+    },
+    {
+      "ingredient": "Pecans",
+      "amounts": [
+        {
+          "amount": 2,
+          "unit": "tsp"
+        }
+      ],
+      "processing": [
+        "chopped"
+      ]
+    },
+    {
+      "ingredient": "Pecans",
+      "amounts": [
+        {
+          "amount": 6,
+          "unit": "pieces"
+        }
+      ],
+      "notes": "Optional, for decoration."
+    }
+  ],
+  "steps": [
+    {
+      "step": "Beat the egg with the yoghurt and the oil."
+    },
+    {
+      "step": "Mix all dry ingredients, add the egg mixture, and stir well."
+    },
+    {
+      "step": "Shape the dough into balls or bars and place them on a baking tray lined with baking paper. Press a pecan onto each bar if you kept some aside."
+    },
+    {
+      "step": "Preheat the oven to 180°C."
+    },
+    {
+      "step": "Bake the bars until done, 10 to 15 minutes."
+    },
+    {
+      "step": "Let the bars cool and store them in an airtight container."
+    }
+  ],
+  "oven_temp": [
+    {
+      "amount": 180,
+      "unit": "C"
+    }
+  ],
+  "oven_time": "10-15 minutes",
+  "notes": "The source also suggests shaping the mixture into balls instead of bars."
+}

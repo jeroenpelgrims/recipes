@@ -1,5 +1,7 @@
 {
   "recipe_name": "Pancakes (crêpes)",
+  "X-image": "image.jpg",
+  "X-image-attribution": "David Monniaux, CC BY-SA 3.0, via Wikimedia Commons",
   "yields": [
     {
       "amount": 4,

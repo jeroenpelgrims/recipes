@@ -1,6 +1,8 @@
 {
   "recipe_name": "Scottish shortbread",
   "source_url": "https://www.daringgourmet.com/scottish-shortbread/",
+  "X-image": "image.jpg",
+  "X-image-attribution": "Infrogmation, CC BY-SA 4.0, via Wikimedia Commons",
   "yields": [
     {
       "amount": 18,

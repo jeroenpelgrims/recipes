@@ -1,5 +1,7 @@
 {
   "recipe_name": "Garlic sauce",
+  "X-image": "image.jpg",
+  "X-image-attribution": "Marianne Casamance, CC BY-SA 4.0, via Wikimedia Commons",
   "yields": [
     {
       "amount": 150,

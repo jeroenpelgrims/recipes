@@ -1,6 +1,8 @@
 {
   "recipe_name": "Pad Thai",
   "source_url": "https://tastesbetterfromscratch.com/pad-thai/",
+  "X-image": "image.jpg",
+  "X-image-attribution": "Stu Spivak, CC BY-SA 2.0, via Wikimedia Commons",
   "yields": [
     {
       "amount": 4,

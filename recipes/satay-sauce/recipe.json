@@ -1,5 +1,7 @@
 {
   "recipe_name": "Satay Sauce",
+  "X-image": "image.jpg",
+  "X-image-attribution": "Sumit Surai, CC BY-SA 4.0, via Wikimedia Commons",
   "yields": [
     {
       "amount": 4,

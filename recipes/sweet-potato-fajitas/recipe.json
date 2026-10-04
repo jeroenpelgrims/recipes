@@ -1,0 +1,172 @@
+{
+  "recipe_name": "Sweet Potato Fajitas Meal Prep",
+  "source_url": "https://thefitchen.com/sweet-potato-fajitas-meal-prep/",
+  "source_authors": [
+    "The Fitchen"
+  ],
+  "X-image": "image.jpg",
+  "X-image-attribution": "JIP, CC BY-SA 4.0, via Wikimedia Commons",
+  "ingredients": [
+    {
+      "ingredient": "Sweet potato",
+      "amounts": [
+        {
+          "amount": 665,
+          "unit": "gr"
+        }
+      ],
+      "processing": [
+        "chopped into fry shape"
+      ]
+    },
+    {
+      "ingredient": "Red onion",
+      "amounts": [
+        {
+          "amount": 1,
+          "unit": "piece"
+        }
+      ],
+      "processing": [
+        "sliced"
+      ]
+    },
+    {
+      "ingredient": "Green bell pepper",
+      "amounts": [
+        {
+          "amount": 1,
+          "unit": "piece"
+        }
+      ]
+    },
+    {
+      "ingredient": "Red bell pepper",
+      "amounts": [
+        {
+          "amount": 1,
+          "unit": "piece"
+        }
+      ]
+    },
+    {
+      "ingredient": "Olive oil",
+      "amounts": [
+        {
+          "amount": 3,
+          "unit": "tbsp"
+        }
+      ]
+    },
+    {
+      "ingredient": "Sea salt",
+      "amounts": [
+        {
+          "amount": 1,
+          "unit": "tsp"
+        }
+      ]
+    },
+    {
+      "ingredient": "Paprika",
+      "amounts": [
+        {
+          "amount": 1,
+          "unit": "tsp"
+        }
+      ]
+    },
+    {
+      "ingredient": "Black pepper",
+      "amounts": [
+        {
+          "amount": 0.5,
+          "unit": "tsp"
+        }
+      ]
+    },
+    {
+      "ingredient": "Chipotle powder",
+      "amounts": [
+        {
+          "amount": 0.5,
+          "unit": "tsp"
+        }
+      ]
+    },
+    {
+      "ingredient": "Cumin",
+      "amounts": [
+        {
+          "amount": 0.25,
+          "unit": "tsp"
+        }
+      ]
+    },
+    {
+      "ingredient": "Cayenne",
+      "amounts": [
+        {
+          "amount": 0.125,
+          "unit": "tsp"
+        }
+      ]
+    },
+    {
+      "ingredient": "Garlic powder",
+      "amounts": [
+        {
+          "amount": 0.125,
+          "unit": "tsp"
+        }
+      ]
+    },
+    {
+      "ingredient": "Brown rice",
+      "amounts": [
+        {
+          "amount": 390,
+          "unit": "gr"
+        }
+      ],
+      "processing": [
+        "cooked"
+      ],
+      "notes": "or quinoa"
+    }
+  ],
+  "steps": [
+    {
+      "step": "Preheat the oven to 190°C and line two baking sheets with parchment paper."
+    },
+    {
+      "step": "In a small bowl, combine the salt, paprika, black pepper, chipotle powder, cumin, cayenne, and garlic powder. Stir together."
+    },
+    {
+      "step": "Spread the sweet potatoes on one sheet pan and drizzle with 2 tablespoons of the olive oil. Sprinkle half of the seasoning over them and mix to coat evenly."
+    },
+    {
+      "step": "Spread the bell peppers and onion on the second sheet pan. Drizzle with the remaining olive oil and sprinkle with the rest of the seasoning. Mix to coat evenly."
+    },
+    {
+      "step": "Place the sweet potatoes in the oven and bake for 10 minutes. Then place the bell pepper and onion sheet pan in the oven and continue baking for 30 minutes more. Remove both pans at the halfway mark to stir for even baking."
+    },
+    {
+      "step": "While the vegetables are baking, make the brown rice, quinoa, or other grain of choice."
+    }
+  ],
+  "yields": [
+    {
+      "amount": 3,
+      "unit": "bowls"
+    }
+  ],
+  "oven_temp": [
+    {
+      "amount": 190,
+      "unit": "C"
+    }
+  ],
+  "oven_time": "40 minutes",
+  "notes": "The source's structured data lists recipeYield as both '3' and '3-4 bowls'."
+}

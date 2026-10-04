@@ -1,6 +1,8 @@
 {
   "recipe_name": "Kanelboller (Cinnamon rolls)",
   "source_url": "https://www.tine.no/oppskrifter/bakst/sot-gjarbakst/kanelboller",
+  "X-image": "image.jpg",
+  "X-image-attribution": "Martin NH, CC BY-SA 3.0, via Wikimedia Commons",
   "yields": [
     {
       "amount": 24,

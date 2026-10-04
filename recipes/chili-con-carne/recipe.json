@@ -1,5 +1,7 @@
 {
   "recipe_name": "Chili con carne",
+  "X-image": "image.jpg",
+  "X-image-attribution": "cyclonebill, CC BY-SA 2.0, via Wikimedia Commons",
   "ingredients": [
     {
       "ingredient": "Ground beef",

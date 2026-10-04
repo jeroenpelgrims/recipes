@@ -1,0 +1,122 @@
+{
+  "recipe_name": "Guacamole",
+  "source_url": "https://www.allrecipes.com/recipe/14231/guacamole/",
+  "source_authors": [
+    "Maryellen"
+  ],
+  "X-image": "image.jpg",
+  "X-image-attribution": "Nikodem Nijaki, CC BY-SA 3.0, via Wikimedia Commons",
+  "yields": [
+    {
+      "amount": 4,
+      "unit": "servings"
+    }
+  ],
+  "ingredients": [
+    {
+      "ingredient": "Avocados",
+      "amounts": [
+        {
+          "amount": 3,
+          "unit": "pieces"
+        }
+      ],
+      "processing": [
+        "peeled",
+        "pitted",
+        "mashed"
+      ]
+    },
+    {
+      "ingredient": "Lime",
+      "amounts": [
+        {
+          "amount": 1,
+          "unit": "piece"
+        }
+      ],
+      "processing": [
+        "juiced"
+      ]
+    },
+    {
+      "ingredient": "Salt",
+      "amounts": [
+        {
+          "amount": 1,
+          "unit": "teaspoon"
+        }
+      ],
+      "notes": "or to taste"
+    },
+    {
+      "ingredient": "Roma (plum) tomatoes",
+      "amounts": [
+        {
+          "amount": 2,
+          "unit": "pieces"
+        }
+      ],
+      "processing": [
+        "diced"
+      ]
+    },
+    {
+      "ingredient": "Onion",
+      "amounts": [
+        {
+          "amount": 80,
+          "unit": "g"
+        }
+      ],
+      "processing": [
+        "diced"
+      ]
+    },
+    {
+      "ingredient": "Fresh cilantro",
+      "amounts": [
+        {
+          "amount": 3,
+          "unit": "tablespoons"
+        }
+      ],
+      "processing": [
+        "chopped"
+      ]
+    },
+    {
+      "ingredient": "Garlic",
+      "amounts": [
+        {
+          "amount": 1,
+          "unit": "teaspoon"
+        }
+      ],
+      "processing": [
+        "minced"
+      ]
+    },
+    {
+      "ingredient": "Ground cayenne pepper",
+      "amounts": [
+        {
+          "amount": 1,
+          "unit": "pinch"
+        }
+      ],
+      "notes": "Optional"
+    }
+  ],
+  "steps": [
+    {
+      "step": "Gather all ingredients."
+    },
+    {
+      "step": "Mash avocados, lime juice, and salt together in a medium bowl; mix in tomatoes, onion, cilantro, and garlic."
+    },
+    {
+      "step": "Stir in cayenne pepper. Serve immediately, or cover and refrigerate for 1 hour for improved flavor."
+    }
+  ]
+}

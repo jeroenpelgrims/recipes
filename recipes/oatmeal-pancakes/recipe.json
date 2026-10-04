@@ -1,6 +1,8 @@
 {
   "recipe_name": "Oatmeal pancakes",
   "source_url": "https://www.youtube.com/watch?v=L7GHP1u5S6c",
+  "X-image": "image.jpg",
+  "X-image-attribution": "PallaviKhale, CC BY-SA 4.0, via Wikimedia Commons",
   "yields": [
     {
       "amount": 2,
