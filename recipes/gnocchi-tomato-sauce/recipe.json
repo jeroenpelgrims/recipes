@@ -1,0 +1,148 @@
+{
+  "recipe_name": "Gnocchi with Tomato Sauce",
+  "source_url": "https://www.saltandlavender.com/gnocchi-with-tomato-sauce/",
+  "X-image": "image.jpg",
+  "source_authors": [
+    "Natasha"
+  ],
+  "yields": [
+    {
+      "amount": 4,
+      "unit": "servings"
+    }
+  ],
+  "ingredients": [
+    {
+      "ingredient": "Olive oil",
+      "amounts": [
+        {
+          "amount": 1,
+          "unit": "tablespoon"
+        }
+      ]
+    },
+    {
+      "ingredient": "Butter",
+      "amounts": [
+        {
+          "amount": 1,
+          "unit": "tablespoon"
+        }
+      ]
+    },
+    {
+      "ingredient": "Garlic",
+      "amounts": [
+        {
+          "amount": 3,
+          "unit": "cloves"
+        }
+      ],
+      "processing": [
+        "minced"
+      ]
+    },
+    {
+      "ingredient": "Diced tomatoes",
+      "amounts": [
+        {
+          "amount": 395,
+          "unit": "gr"
+        }
+      ],
+      "notes": "with juices"
+    },
+    {
+      "ingredient": "Tomato paste",
+      "amounts": [
+        {
+          "amount": 2,
+          "unit": "tablespoons"
+        }
+      ]
+    },
+    {
+      "ingredient": "Chicken broth or white wine",
+      "amounts": [
+        {
+          "amount": 59,
+          "unit": "ml"
+        }
+      ]
+    },
+    {
+      "ingredient": "Italian seasoning",
+      "amounts": [
+        {
+          "amount": 0.25,
+          "unit": "teaspoon"
+        }
+      ]
+    },
+    {
+      "ingredient": "Uncooked potato gnocchi",
+      "amounts": [
+        {
+          "amount": 455,
+          "unit": "gr"
+        }
+      ]
+    },
+    {
+      "ingredient": "Mozzarella",
+      "amounts": [
+        {
+          "amount": 56,
+          "unit": "gr"
+        }
+      ],
+      "processing": [
+        "shredded"
+      ]
+    },
+    {
+      "ingredient": "Parmesan cheese",
+      "amounts": [
+        {
+          "amount": 50,
+          "unit": "gr"
+        }
+      ],
+      "processing": [
+        "freshly grated"
+      ]
+    },
+    {
+      "ingredient": "Fresh basil",
+      "amounts": [
+        {
+          "amount": 1,
+          "unit": "small handful"
+        }
+      ],
+      "processing": [
+        "torn/sliced"
+      ]
+    },
+    {
+      "ingredient": "Salt and pepper",
+      "processing": [
+        "to taste"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "step": "Add the oil and butter to a deep skillet over medium heat. Once it's hot, add the garlic and cook for 30 seconds."
+    },
+    {
+      "step": "Add the diced tomatoes, tomato paste, chicken broth, and Italian seasoning to the pan. Stir to combine."
+    },
+    {
+      "step": "Stir in the gnocchi. Cook, stirring fairly often so it doesn't stick to the bottom of the pan, until it's cooked through, about 5-7 minutes. The sauce will thicken as the gnocchi releases starch."
+    },
+    {
+      "step": "Taste the gnocchi, and if it's cooked, stir in the mozzarella, parmesan, and basil until the cheeses melt. Season with salt and pepper as needed and serve immediately."
+    }
+  ]
+}

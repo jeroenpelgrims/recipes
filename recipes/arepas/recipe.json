@@ -1,0 +1,68 @@
+{
+  "recipe_name": "Arepas",
+  "source_url": "https://www.delish.com/cooking/recipe-ideas/a40613372/arepas-recipe/",
+  "X-image": "image.jpg",
+  "X-image-attribution": "Periodismodepaz, CC BY-SA 4.0, via Wikimedia Commons",
+  "source_authors": [
+    "Casey Elsass"
+  ],
+  "yields": [
+    {
+      "amount": 8,
+      "unit": "pieces"
+    }
+  ],
+  "ingredients": [
+    {
+      "ingredient": "Precooked cornmeal",
+      "amounts": [
+        {
+          "amount": 240,
+          "unit": "gr"
+        }
+      ],
+      "notes": "Such as Harina P.A.N.; sometimes labeled masarepa or arepa flour — not masa harina"
+    },
+    {
+      "ingredient": "Kosher salt",
+      "amounts": [
+        {
+          "amount": 2,
+          "unit": "tsp"
+        }
+      ]
+    },
+    {
+      "ingredient": "Water",
+      "amounts": [
+        {
+          "amount": 590,
+          "unit": "ml"
+        }
+      ],
+      "processing": [
+        "warm"
+      ]
+    },
+    {
+      "ingredient": "Vegetable oil",
+      "amounts": [
+        {
+          "amount": 2,
+          "unit": "tbsp"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "step": "In a large bowl, whisk cornmeal and salt to combine. Add water and stir with a wooden spoon until a dough forms. Cover with a kitchen towel and let hydrate 10 minutes."
+    },
+    {
+      "step": "Divide dough into 8 equal portions, about 1/2 cup (4 ounces) each. Roll dough into balls, then flatten between your palms to a 3\"-wide disc about 1/2\" thick."
+    },
+    {
+      "step": "In a large cast-iron or nonstick skillet over medium heat, heat 1 tablespoon oil. When oil begins to smoke, add 4 pieces of dough. Cover skillet and cook until bottoms are nicely charred, 5 to 7 minutes. Flip and continue to cook, uncovered, until second side is charred, 5 to 7 minutes more. Transfer to a plate. Repeat with remaining 1 tablespoon oil and dough."
+    }
+  ]
+}

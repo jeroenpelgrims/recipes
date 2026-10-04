@@ -7,6 +7,9 @@
 
     {% if let Some(image) = recipe.image() %}
     <img id="recipe-image" src="{{ image }}" alt="{{ recipe.recipe_name }}">
+    {% if let Some(attribution) = recipe.image_attribution() %}
+    <div class="image-attribution">{{ attribution }}</div>
+    {% endif %}
     {% endif %}
 
     {% include "ingredients.html" %}

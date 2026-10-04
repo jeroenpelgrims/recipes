@@ -163,4 +163,11 @@ impl Recipe {
     pub fn image(&self) -> Option<&str> {
         self.extra.get("X-image").and_then(|v| v.as_str())
     }
+
+    /// Attribution for the recipe's image, from the `X-image-attribution` extension field.
+    pub fn image_attribution(&self) -> Option<&str> {
+        self.extra
+            .get("X-image-attribution")
+            .and_then(|v| v.as_str())
+    }
 }
