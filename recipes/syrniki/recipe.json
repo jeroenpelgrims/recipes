@@ -1,0 +1,85 @@
+{
+  "recipe_name": "Syrniki Recipe (Russian Cheese Pancakes)",
+  "source_url": "https://www.babaganosh.org/syrniki-russian-cheese-pancakes/",
+  "source_authors": ["Kate Vaynshteyn"],
+  "yields": [
+    {
+      "amount": 12,
+      "unit": "pancakes"
+    }
+  ],
+  "ingredients": [
+    {
+      "ingredient": "Cottage cheese",
+      "amounts": [
+        {
+          "amount": 200,
+          "unit": "gr"
+        }
+      ],
+      "notes": "See recipe notes before getting started."
+    },
+    {
+      "ingredient": "Eggs",
+      "amounts": [
+        {
+          "amount": 1,
+          "unit": "units"
+        }
+      ]
+    },
+    {
+      "ingredient": "All-purpose flour",
+      "amounts": [
+        {
+          "amount": 120,
+          "unit": "gr"
+        }
+      ],
+      "notes": "For the batter"
+    },
+    {
+      "ingredient": "Sugar",
+      "amounts": [
+        {
+          "amount": 25,
+          "unit": "gr"
+        }
+      ]
+    },
+    {
+      "ingredient": "Salt",
+      "amounts": [
+        {
+          "amount": 0.25,
+          "unit": "teaspoon"
+        }
+      ]
+    },
+    {
+      "ingredient": "Raisins",
+      "amounts": [
+        {
+          "amount": 35,
+          "unit": "gr"
+        }
+      ],
+      "notes": "Optional"
+    },
+    {
+      "ingredient": "Vegetable oil",
+      "notes": "50ml, for frying"
+    }
+  ],
+  "steps": [
+    {
+      "step": "In a large bowl, crumble the farmer's cheese into little pieces with a fork."
+    },
+    {
+      "step": "Add the eggs and mix well. Add the flour, sugar, and salt. Mix well. Add the raisins"
+    },
+    {
+      "step": "In a large skillet, heat some vegetable oil use a spoon to add the dough to the pan. Cook until the bottom is brown, then flip and do the same."
+    }
+  ]
+}
