@@ -14,7 +14,7 @@
       "amounts": [
         {
           "amount": 200,
-          "unit": "gr"
+          "unit": "g"
         }
       ]
     },
@@ -23,7 +23,7 @@
       "amounts": [
         {
           "amount": 30,
-          "unit": "gr"
+          "unit": "g"
         }
       ]
     },
@@ -32,7 +32,7 @@
       "amounts": [
         {
           "amount": 2,
-          "unit": "teaspoons"
+          "unit": "tsp"
         }
       ]
     },

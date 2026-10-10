@@ -14,7 +14,7 @@
       "amounts": [
         {
           "amount": 200,
-          "unit": "gr"
+          "unit": "g"
         }
       ],
       "notes": "See recipe notes before getting started."
@@ -33,7 +33,7 @@
       "amounts": [
         {
           "amount": 120,
-          "unit": "gr"
+          "unit": "g"
         }
       ],
       "notes": "For the batter"
@@ -43,7 +43,7 @@
       "amounts": [
         {
           "amount": 25,
-          "unit": "gr"
+          "unit": "g"
         }
       ]
     },
@@ -52,7 +52,7 @@
       "amounts": [
         {
           "amount": 0.25,
-          "unit": "teaspoon"
+          "unit": "tsp"
         }
       ]
     },
@@ -61,7 +61,7 @@
       "amounts": [
         {
           "amount": 35,
-          "unit": "gr"
+          "unit": "g"
         }
       ],
       "notes": "Optional"

@@ -15,7 +15,7 @@
       "amounts": [
         {
           "amount": 1,
-          "unit": "tablespoon"
+          "unit": "tbsp"
         }
       ]
     },
@@ -24,7 +24,7 @@
       "amounts": [
         {
           "amount": 100,
-          "unit": "gr"
+          "unit": "g"
         }
       ]
     },
@@ -33,7 +33,7 @@
       "amounts": [
         {
           "amount": 42,
-          "unit": "gr"
+          "unit": "g"
         }
       ]
     },
@@ -42,7 +42,7 @@
       "amounts": [
         {
           "amount": 63,
-          "unit": "gr"
+          "unit": "g"
         }
       ]
     },
@@ -60,7 +60,7 @@
       "amounts": [
         {
           "amount": 0.5,
-          "unit": "teaspoon"
+          "unit": "tsp"
         }
       ]
     },
@@ -69,7 +69,7 @@
       "amounts": [
         {
           "amount": 0.5,
-          "unit": "teaspoon"
+          "unit": "tsp"
         }
       ]
     },
@@ -78,7 +78,7 @@
       "amounts": [
         {
           "amount": 2,
-          "unit": "teaspoon"
+          "unit": "tsp"
         }
       ]
     },
@@ -87,7 +87,7 @@
       "amounts": [
         {
           "amount": 1,
-          "unit": "teaspoon"
+          "unit": "tsp"
         }
       ]
     }

@@ -15,7 +15,7 @@
       "amounts": [
         {
           "amount": 250,
-          "unit": "gr"
+          "unit": "g"
         }
       ]
     },
@@ -39,7 +39,7 @@
       "amounts": [
         {
           "amount": 150,
-          "unit": "gr"
+          "unit": "g"
         }
       ]
     },
@@ -51,7 +51,7 @@
       "amounts": [
         {
           "amount": 400,
-          "unit": "gr"
+          "unit": "g"
         }
       ]
     },
@@ -69,7 +69,7 @@
       "amounts": [
         {
           "amount": 250,
-          "unit": "gr"
+          "unit": "g"
         }
       ]
     },
@@ -87,7 +87,7 @@
       "amounts": [
         {
           "amount": 250,
-          "unit": "gr"
+          "unit": "g"
         }
       ]
     }

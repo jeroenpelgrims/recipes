@@ -14,7 +14,7 @@
       "amounts": [
         {
           "amount": 2,
-          "unit": "tablespoon"
+          "unit": "tbsp"
         }
       ]
     },
@@ -53,7 +53,7 @@
       "amounts": [
         {
           "amount": 1,
-          "unit": "teaspoon"
+          "unit": "tsp"
         }
       ]
     },
@@ -62,7 +62,7 @@
       "amounts": [
         {
           "amount": 2,
-          "unit": "teaspoon"
+          "unit": "tsp"
         }
       ]
     },
@@ -71,7 +71,7 @@
       "amounts": [
         {
           "amount": 0.25,
-          "unit": "teaspoon"
+          "unit": "tsp"
         }
       ]
     },
@@ -80,7 +80,7 @@
       "amounts": [
         {
           "amount": 800,
-          "unit": "gr"
+          "unit": "g"
         }
       ]
     },

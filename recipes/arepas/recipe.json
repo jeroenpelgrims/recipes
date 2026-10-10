@@ -18,7 +18,7 @@
       "amounts": [
         {
           "amount": 240,
-          "unit": "gr"
+          "unit": "g"
         }
       ],
       "notes": "Such as Harina P.A.N.; sometimes labeled masarepa or arepa flour — not masa harina"
@@ -59,10 +59,10 @@
       "step": "In a large bowl, whisk cornmeal and salt to combine. Add water and stir with a wooden spoon until a dough forms. Cover with a kitchen towel and let hydrate 10 minutes."
     },
     {
-      "step": "Divide dough into 8 equal portions, about 1/2 cup (4 ounces) each. Roll dough into balls, then flatten between your palms to a 3\"-wide disc about 1/2\" thick."
+      "step": "Divide the dough into equal portions, one per arepa. Roll each portion into a ball, then flatten between your palms to a disc about 3\" wide and 1/2\" thick."
     },
     {
-      "step": "In a large cast-iron or nonstick skillet over medium heat, heat 1 tablespoon oil. When oil begins to smoke, add 4 pieces of dough. Cover skillet and cook until bottoms are nicely charred, 5 to 7 minutes. Flip and continue to cook, uncovered, until second side is charred, 5 to 7 minutes more. Transfer to a plate. Repeat with remaining 1 tablespoon oil and dough."
+      "step": "In a large cast-iron or nonstick skillet over medium heat, heat half of the oil. When the oil begins to smoke, add as many pieces of dough as fit without crowding. Cover the skillet and cook until the bottoms are nicely charred, 5 to 7 minutes. Flip and continue to cook, uncovered, until the second side is charred, 5 to 7 minutes more. Transfer to a plate. Repeat with the remaining oil and dough."
     }
   ]
 }

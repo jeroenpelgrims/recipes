@@ -15,7 +15,7 @@
       "amounts": [
         {
           "amount": 280,
-          "unit": "gr"
+          "unit": "g"
         }
       ]
     },
@@ -24,7 +24,7 @@
       "amounts": [
         {
           "amount": 16,
-          "unit": "gr"
+          "unit": "g"
         }
       ]
     },
@@ -33,7 +33,7 @@
       "amounts": [
         {
           "amount": 4,
-          "unit": "gr"
+          "unit": "g"
         }
       ]
     },
@@ -42,7 +42,7 @@
       "amounts": [
         {
           "amount": 1.5,
-          "unit": "gr"
+          "unit": "g"
         }
       ]
     },
@@ -51,7 +51,7 @@
       "amounts": [
         {
           "amount": 60,
-          "unit": "gr"
+          "unit": "g"
         }
       ]
     },
@@ -69,7 +69,7 @@
       "amounts": [
         {
           "amount": 380,
-          "unit": "gr"
+          "unit": "g"
         }
       ]
     },
@@ -78,7 +78,7 @@
       "amounts": [
         {
           "amount": 10,
-          "unit": "gr"
+          "unit": "g"
         }
       ]
     },
@@ -87,7 +87,7 @@
       "amounts": [
         {
           "amount": 133,
-          "unit": "gr"
+          "unit": "g"
         }
       ]
     }

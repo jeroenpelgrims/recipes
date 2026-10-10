@@ -17,7 +17,7 @@
       "amounts": [
         {
           "amount": 1,
-          "unit": "tablespoon"
+          "unit": "tbsp"
         }
       ]
     },
@@ -26,7 +26,7 @@
       "amounts": [
         {
           "amount": 1,
-          "unit": "tablespoon"
+          "unit": "tbsp"
         }
       ]
     },
@@ -47,7 +47,7 @@
       "amounts": [
         {
           "amount": 395,
-          "unit": "gr"
+          "unit": "g"
         }
       ],
       "notes": "with juices"
@@ -57,7 +57,7 @@
       "amounts": [
         {
           "amount": 2,
-          "unit": "tablespoons"
+          "unit": "tbsp"
         }
       ]
     },
@@ -75,7 +75,7 @@
       "amounts": [
         {
           "amount": 0.25,
-          "unit": "teaspoon"
+          "unit": "tsp"
         }
       ]
     },
@@ -84,7 +84,7 @@
       "amounts": [
         {
           "amount": 455,
-          "unit": "gr"
+          "unit": "g"
         }
       ]
     },
@@ -93,7 +93,7 @@
       "amounts": [
         {
           "amount": 56,
-          "unit": "gr"
+          "unit": "g"
         }
       ],
       "processing": [
@@ -105,7 +105,7 @@
       "amounts": [
         {
           "amount": 50,
-          "unit": "gr"
+          "unit": "g"
         }
       ],
       "processing": [

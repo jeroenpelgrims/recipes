@@ -45,7 +45,7 @@
       "amounts": [
         {
           "amount": 110,
-          "unit": "gr"
+          "unit": "g"
         }
       ]
     },
@@ -54,7 +54,7 @@
       "amounts": [
         {
           "amount": 70,
-          "unit": "gr"
+          "unit": "g"
         }
       ],
       "notes": "The author uses Schär Mix C."
@@ -64,7 +64,7 @@
       "amounts": [
         {
           "amount": 50,
-          "unit": "gr"
+          "unit": "g"
         }
       ],
       "substitutions": [

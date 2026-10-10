@@ -44,7 +44,7 @@
       "amounts": [
         {
           "amount": 1,
-          "unit": "teaspoon"
+          "unit": "tsp"
         }
       ],
       "notes": "or to taste"
@@ -78,7 +78,7 @@
       "amounts": [
         {
           "amount": 3,
-          "unit": "tablespoons"
+          "unit": "tbsp"
         }
       ],
       "processing": [
@@ -90,7 +90,7 @@
       "amounts": [
         {
           "amount": 1,
-          "unit": "teaspoon"
+          "unit": "tsp"
         }
       ],
       "processing": [

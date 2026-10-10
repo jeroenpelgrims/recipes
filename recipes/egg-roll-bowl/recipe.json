@@ -87,7 +87,7 @@
       "amounts": [
         {
           "amount": 66,
-          "unit": "gr"
+          "unit": "g"
         }
       ]
     },
@@ -139,7 +139,7 @@
       "step": "Add the soy sauce and sriracha and mix. Cook until tender. Season with salt."
     },
     {
-      "step": "1-by-1, wet a rice paper and add about 50gr of the cooked mixture. Roll the rice wrap. Repeat."
+      "step": "One by one, wet a rice paper and add some of the cooked mixture. Roll the rice wrap. Repeat until all the filling is used."
     }
   ]
 }

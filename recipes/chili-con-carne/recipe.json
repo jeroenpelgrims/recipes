@@ -8,7 +8,7 @@
       "amounts": [
         {
           "amount": 900,
-          "unit": "gr"
+          "unit": "g"
         }
       ]
     },
@@ -127,7 +127,7 @@
       "amounts": [
         {
           "amount": 800,
-          "unit": "gr"
+          "unit": "g"
         }
       ]
     },
@@ -145,7 +145,7 @@
       "amounts": [
         {
           "amount": 450,
-          "unit": "gr"
+          "unit": "g"
         }
       ]
     }

@@ -15,7 +15,7 @@
       "amounts": [
         {
           "amount": 350,
-          "unit": "gr"
+          "unit": "g"
         }
       ]
     },
@@ -33,7 +33,7 @@
       "amounts": [
         {
           "amount": 20,
-          "unit": "gr"
+          "unit": "g"
         }
       ],
       "substitutions": [
@@ -42,7 +42,7 @@
           "amounts": [
             {
               "amount": 50,
-              "unit": "gr"
+              "unit": "g"
             }
           ]
         }
@@ -53,7 +53,7 @@
       "amounts": [
         {
           "amount": 3,
-          "unit": "gr"
+          "unit": "g"
         }
       ]
     },
@@ -62,7 +62,7 @@
       "amounts": [
         {
           "amount": 260,
-          "unit": "gr"
+          "unit": "g"
         }
       ]
     },
@@ -80,7 +80,7 @@
       "amounts": [
         {
           "amount": 825,
-          "unit": "gr"
+          "unit": "g"
         }
       ]
     },
@@ -89,7 +89,7 @@
       "amounts": [
         {
           "amount": 4,
-          "unit": "gr"
+          "unit": "g"
         }
       ]
     },
@@ -98,7 +98,7 @@
       "amounts": [
         {
           "amount": 24,
-          "unit": "gr"
+          "unit": "g"
         }
       ]
     }
